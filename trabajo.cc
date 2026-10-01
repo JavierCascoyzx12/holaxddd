@@ -10,6 +10,7 @@ int main() {
     std::cin >> n1 >> n2;
 
     std::cout << "The sum is: " << n1 + n2 << std::endl;
+    std::cout << "The rest is: " << n1 - n2 << std::endl;
 
     return 0;
 }
